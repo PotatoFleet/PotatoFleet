@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PotatoFleet
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Javascript
+- 📫 You can reach me on Discord - PotatoWasTaken#6254 😉 
